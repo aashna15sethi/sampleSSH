@@ -1,1 +1,1 @@
-adding a line to newfile
+Hello from newfile
